@@ -1,6 +1,8 @@
 # One time pad (OTP) example
 The index.html file contains two one time pad examples. One uses [modulo 26](http://en.wikipedia.org/wiki/One-time_pad) and the other uses the typical [XOR](http://en.wikipedia.org/wiki/Exclusive_or) process. Additional debug info is output to the browser console.
 
+Try it: [http://nlassiter.github.io/onetimepad](http://nlassiter.github.io/onetimepad)
+
 ## Basic requirements of OTP
 - Two copies of a "pad" which contains the same keys
 - Pads must be transported and stored securely
